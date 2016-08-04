@@ -1,0 +1,29 @@
+_repo: Lysbeth-a-Tale-of-the-Dutch_5754
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Netherlands -- History -- House of Habsburg, 1477-1556 -- Fiction'
+- GITenberg
+title: Lysbeth, a Tale of the Dutch
+url: http://www.gutenberg.org/ebooks/5754
